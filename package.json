@@ -8,8 +8,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "snyk": "^1.431.2",
-    "web-ext": "^5.5.0"
+    "snyk": "^1.518.0",
+    "web-ext": "^6.1.0"
   },
   "scripts": {
     "start": "web-ext run",
